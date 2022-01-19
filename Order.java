@@ -6,6 +6,6 @@ class Order {
 
     public void printOrder() {
         System.out.println("Your total is $" + totalCost);
-        System.out.println("Here are your items: " + items);
+        System.out.println("Your items are here" + items);
     }
 }
